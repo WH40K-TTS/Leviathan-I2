@@ -1,0 +1,413 @@
++++ BA_GT_2000p (Warhammer 40,000 10th Edition) [1,990pts] +++
+
+++ Army Roster (Imperium - Adeptus Astartes - Blood Angels) [1,990pts] ++
+Rules: Oath of Moment
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+. Categories: Configuration
+
+Detachment: Gladius Task Force
+. Categories: Configuration, Grenades
+. Abilities: Combat Doctrines
+Profiles:
+. Combat Doctrines: Description:At the start of your Command phase, you can select one of the Combat Doctrines listed below. Until the start of your next Command phase, that Combat Doctrine is active and its effects apply to all Adeptus Astartes units from your army with this ability. You can only select each Combat Doctrine once per battle.
+
+
+DEVASTATOR DOCTRINE 
+This unit is eligible to shoot in a turn in which it Advanced.
+
+TACTICAL DOCTRINE
+This unit is eligible to shoot and declare a charge in a turn in which it Fell Back.
+
+ASSAULT DOCTRINE
+This unit is eligible to declare a charge in a turn in which it Advanced.|
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+. Categories: Configuration
+
++ Epic Hero [110pts] +
+
+Lemartes [110pts]: Bolt Pistol, The Blood Crozius, Warlord
+. Categories: Epic Hero, Character, Infantry, Grenades, Imperium, Fly, Chaplain, Lemartes, Faction: Adeptus Astartes, Faction: Blood Angels, Jump Pack, Warlord
+. Rules: Leader, Lethal Hits, Oath of Moment, Pistol
+. Abilities: Fury Unbound, Guardian of the Lost, Invulnerable Save, Leader, Melee Weapons: The Blood Crozius, Ranged Weapons: Bolt Pistol, Unit: Lemartes
+Profiles:
+. Fury Unbound: Description:While this model is leading a unit, melee weapons equipped by models in that unit have the [LETHAL HITS] ability.|
+. Guardian of the Lost: Description:While this model is leading a unit, each time an attack is allocated to a model in that unit, subtract 1 from the Damage characteristic of that attack.|
+. Invulnerable Save: Description:4+|
+. Leader: Description:This model can be attached to the following unit:
+
+■ Death Company Marines with Jump Packs|
+. The Blood Crozius: Range:Melee|A:5|WS:2+|S:6|AP:-2|D:2|Keywords:Lethal Hits|
+. Bolt Pistol: Range:12"|A:1|BS:2+|S:4|AP:0|D:1|Keywords:Pistol|
+. Lemartes: M:12"|T:4|SV:3+|W:4|LD:5+|OC:1|
+
++ Character [255pts] +
+
+Apothecary Biologis [85pts]: Absolver Bolt Pistol, Close Combat Weapon, Fire Discipline [30pts]
+. Categories: Character, Infantry, Imperium, Gravis, Faction: Adeptus Astartes, Apothecary Biologis
+. Rules: Leader, Oath of Moment, Pistol
+. Abilities: Fire Discipline, Leader, Surgical Precision, Vivispectrum, Melee Weapons: Close Combat Weapon, Ranged Weapons: Absolvor Bolt Pistol, Unit: Apothecary Biologis
+Profiles:
+. Fire Discipline: Description:Adeptus Astartes model only. While the bearer is leading a unit, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability. In addition, while the bearer’s unit is under the effects of the Devastator Doctrine, each time a model in that unit makes a ranged attack, a successful unmodified Hit roll of 5+ scores a Critical Hit.|
+. Leader: Description:This model can be attached to the following units:
+
+■ Aggressor Squad
+■ Eradicator Squad
+■ Heavy Intercessor Squad
+
+You can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.|
+. Surgical Precision: Description:While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.|
+. Vivispectrum: Description:If this model’s unit destroys an enemy unit as the result of a melee attack, until the end of the battle, this model has an Objective Control characteristic of 9.|
+. Close Combat Weapon: Range:Melee|A:4|WS:3+|S:4|AP:0|D:1|Keywords:|
+. Absolvor Bolt Pistol: Range:18"|A:1|BS:3+|S:5|AP:-1|D:2|Keywords:Pistol|
+. Apothecary Biologis: M:5"|T:6|SV:3+|W:5|LD:6+|OC:3|
+
+Chaplain with Jump Pack [85pts]: Artificer Armour [10pts], Crozius Arcanum, Inferno Pistol
+. Categories: Character, Infantry, Imperium, Chaplain, Faction: Adeptus Astartes, Fly, Jump Pack
+. Rules: Deep Strike, Leader, Oath of Moment, Pistol
+. Abilities: Artificer Armour, Exhortation of Rage, Invulnerable Save, Leader, Litany of Hate, Melee Weapons: Crozius Arcanum, Ranged Weapons: Inferno Pistol, Unit: Chaplain with Jump Pack
+Profiles:
+. Artificer Armour: Description:Adeptus Astartes model only. The bearer has a Save characteristic of 2+ and the Feel No Pain 5+ ability.|
+. Exhortation of Rage: Description:Each time this model’s unit is selected to fight, you can select one enemy unit within Engagement Range of this model’s unit and roll one D6: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds.|
+. Invulnerable Save: Description:4+|
+. Leader: Description:This model can be attached to the following units:
+
+■ Assault Intercessors with Jump Packs
+■ Vanguard Veteran Squad with Jump Packs|
+. Litany of Hate: Description:While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Wound roll.|
+. Crozius Arcanum: Range:Melee|A:5|WS:2+|S:6|AP:-1|D:2|Keywords:|
+. Inferno Pistol: Range:6"|A:1|BS:3+|S:8|AP:-4|D:D3|Keywords:Melta 2, Pistol|
+. Chaplain with Jump Pack: M:12"|T:4|SV:3+|W:4|LD:5+|OC:1|
+
+Judiciar [85pts]: Absolver Bolt Pistol, Executioner Relic Blade, The Honour Vehement [15pts]
+. Categories: Character, Infantry, Imperium, Tacticus, Judiciar, Faction: Adeptus Astartes
+. Rules: Devastating Wounds, Leader, Oath of Moment, Pistol, Precision
+. Abilities: Invulnerable Save*, Leader, Silent Fury, Tempormortis, The Honour Vehement, Melee Weapons: Executioner Relic Blade, Ranged Weapons: Absolvor Bolt Pistol, Unit: Judiciar
+Profiles:
+. Invulnerable Save*: Description:4+
+* This model has a 4+ invulnerable save against melee attacks.|
+. Leader: Description:This model can be attached to the following units:
+
+■ Assault Intercessor Squad
+■ Bladeguard Veteran Squad
+■ Infernus Squad
+■ Intercessor Squad
+■ Sternguard Veteran Squad
+■ Tactical Squad|
+. Silent Fury: Description:Each time this model destroys an enemy Character model, until the end of the battle, add 1 to the Attacks characteristic of its executioner relic blade.|
+. Tempormortis: Description:While this model is leading a unit, that unit has the Fights First ability.|
+. The Honour Vehement: Description:Adeptus Astartes model only. Add 1 to the Attacks and Strength characteristics of the bearer’s melee weapons. While the bearer is under the effects of the Assault Doctrine, add 2 to the Attacks and Strength characteristics of the bearer’s melee weapons instead.|
+. Executioner Relic Blade: Range:Melee|A:5|WS:2+|S:7|AP:-2|D:2|Keywords:Devastating Wounds, Precision|
+. Absolvor Bolt Pistol: Range:18"|A:1|BS:3+|S:5|AP:-1|D:2|Keywords:Pistol|
+. Judiciar: M:6"|T:4|SV:3+|W:4|LD:5+|OC:1|
+
++ Battleline [105pts] +
+
+Heavy intercessor Squad [105pts]
+. Categories: Infantry, Battleline, Grenades, Imperium, Gravis, Faction: Adeptus Astartes, Heavy Intercessor Squad
+. Rules: Oath of Moment
+. Abilities: Unyielding in the Face of the Foe, Unit: Heavy intercessor Squad
+. Heavy Intercessor Sergeant
+. . Heavy Bolt Rifle: Bolt Pistol, Close Combat Weapon
+. . . Rules: Pistol
+. . . Melee Weapons: Close Combat Weapon, Ranged Weapons: Bolt Pistol, Heavy Bolt Rifle
+. Heavy Intercessor w/Heavy Bolter: Bolt Pistol, Close Combat Weapon, Heavy Bolter
+. . Rules: Assault, Heavy, Pistol, Sustained Hits
+. . Melee Weapons: Close Combat Weapon, Ranged Weapons: Bolt Pistol, Heavy Bolter
+. 3x Heavy Intercessors: 3x Bolt Pistol, 3x Close Combat Weapon, 3x Heavy Bolt Rifle
+. . Rules: Pistol
+. . Melee Weapons: Close Combat Weapon, Ranged Weapons: Bolt Pistol, Heavy Bolt Rifle
+Profiles:
+. Unyielding in the Face of the Foe: Description:While this unit is within range of an objective marker you control, each time an attack with a Damage characteristic of 1 is allocated to a model in 
+this unit, add 1 to any armour saving throw made against that attack.|
+. Close Combat Weapon: Range:Melee|A:3|WS:3+|S:4|AP:0|D:1|Keywords:-|
+. Bolt Pistol: Range:12"|A:1|BS:3+|S:4|AP:0|D:1|Keywords:Pistol|
+. Heavy Bolt Rifle: Range:30"|A:2|BS:3+|S:5|AP:-1|D:1|Keywords:Assault, Heavy|
+. Heavy Bolter: Range:36"|A:3|BS:4+|S:5|AP:-1|D:2|Keywords:Assault, Heavy, Sustained Hits 1|
+. Heavy intercessor Squad: M:5"|T:6|SV:3+|W:3|LD:6+|OC:2|
+
++ Infantry [965pts] +
+
+Aggressor Squad [220pts]
+. Categories: Infantry, Imperium, Gravis, Aggressor Squad, Faction: Adeptus Astartes
+. Rules: Oath of Moment
+. Abilities: Close-quarters Firepower, Unit: Aggressors
+. Aggressor Sergeant: Twin Power Fist
+. . Rules: Twin-linked
+. . Melee Weapons: Twin Power Fist
+. 5x Aggressors: 5x Twin Power Fist
+. . Rules: Twin-linked
+. . Melee Weapons: Twin Power Fist
+. Auto Boltstorm Gauntlets & Fragstorm Grenade Launcher: Auto Boltstorm Gauntlets, Fragstorm Grenade Launcher
+. . Rules: Blast, Twin-linked
+. . Ranged Weapons: Auto Boltstorm Gauntlets, Fragstorm Grenade Launcher
+Profiles:
+. Close-quarters Firepower: Description:Each time a model in this unit makes a ranged attack that targets the closest eligible target, improve the Armour Penetration characteristic of that attack
+by 1.|
+. Twin Power Fist: Range:Melee|A:3|WS:3+|S:8|AP:-2|D:2|Keywords:Twin-linked|
+. Auto Boltstorm Gauntlets: Range:18"|A:3|BS:3+|S:4|AP:0|D:1|Keywords:Twin-linked|
+. Fragstorm Grenade Launcher: Range:18"|A:D6|BS:3+|S:4|AP:0|D:1|Keywords:Blast|
+. Aggressors: M:5"|T:6|SV:3+|W:3|LD:6+|OC:1|
+
+Bladeguard Veteran Squad [180pts]
+. Categories: Infantry, Grenades, Imperium, Tacticus, Bladeguard Veteran Squad, Faction: Adeptus Astartes
+. Rules: Oath of Moment
+. Abilities: Bladeguard, Invulnerable Save, Unit: Bladeguard Veteran Squad
+. Bladeguard Veteran Sergeant: Master-crafted Power Weapon, Plasma Pistol
+. . Rules: Hazardous, Pistol
+. . Melee Weapons: Master-crafted Power Weapon, Ranged Weapons: ➤ Plasma Pistol - Standard, ➤ Plasma Pistol - Supercharge
+. 5x Bladeguard Veterans: 5x Heavy Bolt Pistol, 5x Master-crafted Power Weapon
+. . Rules: Pistol
+. . Melee Weapons: Master-crafted Power Weapon, Ranged Weapons: Heavy Bolt Pistol
+Profiles:
+. Bladeguard: Description:At the start of the Fight phase, you can select one of the following abilities to apply to models in this unit until the end of the phase:
+
+■ Swords of the Imperium: Each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.
+■ Shields of the Imperium: Each time an invulnerable saving throw is made for a model in this unit, re-roll a saving throw of 1.|
+. Invulnerable Save: Description:4+|
+. Master-crafted Power Weapon: Range:Melee|A:4|WS:3+|S:5|AP:-2|D:2|Keywords:|
+. Heavy Bolt Pistol: Range:18"|A:1|BS:3+|S:4|AP:-1|D:1|Keywords:Pistol|
+. ➤ Plasma Pistol - Standard: Range:12"|A:1|BS:3+|S:7|AP:-2|D:1|Keywords:Pistol|
+. ➤ Plasma Pistol - Supercharge: Range:12"|A:1|BS:3+|S:8|AP:-2|D:2|Keywords:Hazardous, Pistol|
+. Bladeguard Veteran Squad: M:6"|T:4|SV:3+|W:3|LD:6+|OC:1|
+
+Death Company Marines with Jump Packs [130pts]
+. Categories: Infantry, Grenades, Imperium, Faction: Adeptus Astartes, Faction: Blood Angels, Death Company Marines with Jump Packs
+. Rules: Deep Strike, Feel No Pain 6+, Oath of Moment
+. Abilities: Berserk Fury, Black Rage, Unit: Death Company Marine with Jump Pack
+. Death Company Marine
+. . Melee weapon and pistol: Inferno Pistol, Power Fist
+. . . Rules: Pistol
+. . . Melee Weapons: Power Fist, Ranged Weapons: Inferno Pistol
+. Death Company Marine
+. . Melee weapon and pistol: Inferno Pistol, Power Fist
+. . . Rules: Pistol
+. . . Melee Weapons: Power Fist, Ranged Weapons: Inferno Pistol
+. Death Company Marine
+. . Melee weapon and pistol: Inferno Pistol, Power Fist
+. . . Rules: Pistol
+. . . Melee Weapons: Power Fist, Ranged Weapons: Inferno Pistol
+. Death Company Marine
+. . Melee weapon and pistol: Inferno Pistol, Power Fist
+. . . Rules: Pistol
+. . . Melee Weapons: Power Fist, Ranged Weapons: Inferno Pistol
+. Death Company Marine
+. . Melee weapon and pistol: Inferno Pistol, Power Fist
+. . . Rules: Pistol
+. . . Melee Weapons: Power Fist, Ranged Weapons: Inferno Pistol
+Profiles:
+. Berserk Fury: Description:You can re-roll Charge rolls made for this unit.|
+. Black Rage: Description:Each time this model makes an attack, you can re-roll the Hit roll. While this model is not within 12" of one or more friendly Chaplain models, it cannot be selected to Fall Back and its Objective Control characteristic is 0.|
+. Power Fist: Range:Melee|A:3|WS:3+|S:8|AP:-2|D:2|Keywords:|
+. Inferno Pistol: Range:6"|A:1|BS:3+|S:8|AP:-4|D:D3|Keywords:Melta 2, Pistol|
+. Death Company Marine with Jump Pack: M:12"|T:4|SV:3+|W:2|LD:6+|OC:1|
+
+Death Company Marines with Jump Packs [130pts]
+. Categories: Infantry, Grenades, Imperium, Faction: Adeptus Astartes, Faction: Blood Angels, Death Company Marines with Jump Packs
+. Rules: Deep Strike, Feel No Pain 6+, Oath of Moment
+. Abilities: Berserk Fury, Black Rage, Unit: Death Company Marine with Jump Pack
+. Death Company Marine
+. . Melee weapon and pistol: Inferno Pistol, Power Fist
+. . . Rules: Pistol
+. . . Melee Weapons: Power Fist, Ranged Weapons: Inferno Pistol
+. Death Company Marine
+. . Melee weapon and pistol: Inferno Pistol, Power Fist
+. . . Rules: Pistol
+. . . Melee Weapons: Power Fist, Ranged Weapons: Inferno Pistol
+. Death Company Marine
+. . Melee weapon and pistol: Inferno Pistol, Power Fist
+. . . Rules: Pistol
+. . . Melee Weapons: Power Fist, Ranged Weapons: Inferno Pistol
+. Death Company Marine
+. . Melee weapon and pistol: Inferno Pistol, Power Fist
+. . . Rules: Pistol
+. . . Melee Weapons: Power Fist, Ranged Weapons: Inferno Pistol
+. Death Company Marine
+. . Melee weapon and pistol: Inferno Pistol, Power Fist
+. . . Rules: Pistol
+. . . Melee Weapons: Power Fist, Ranged Weapons: Inferno Pistol
+Profiles:
+. Berserk Fury: Description:You can re-roll Charge rolls made for this unit.|
+. Black Rage: Description:Each time this model makes an attack, you can re-roll the Hit roll. While this model is not within 12" of one or more friendly Chaplain models, it cannot be selected to Fall Back and its Objective Control characteristic is 0.|
+. Power Fist: Range:Melee|A:3|WS:3+|S:8|AP:-2|D:2|Keywords:|
+. Inferno Pistol: Range:6"|A:1|BS:3+|S:8|AP:-4|D:D3|Keywords:Melta 2, Pistol|
+. Death Company Marine with Jump Pack: M:12"|T:4|SV:3+|W:2|LD:6+|OC:1|
+
+Eradicator Squad [95pts]
+. Categories: Infantry, Grenades, Imperium, Gravis, Eradicator Squad, Faction: Adeptus Astartes
+. Rules: Oath of Moment
+. Abilities: Total Obliteration, Unit: Eradicator Squad
+. Eradicator: Bolt Pistol, Close Combat Weapon, Melta Rifle
+. . Rules: Pistol
+. . Melee Weapons: Close Combat Weapon, Ranged Weapons: Bolt Pistol, Melta Rifle
+. Eradicator Sergeant: Bolt Pistol, Close Combat Weapon, Melta Rifle
+. . Rules: Pistol
+. . Melee Weapons: Close Combat Weapon, Ranged Weapons: Bolt Pistol, Melta Rifle
+. Eradicator with Multi-melta: Bolt Pistol, Close Combat Weapon, Multi-melta
+. . Rules: Heavy, Melta, Pistol
+. . Melee Weapons: Close Combat Weapon, Ranged Weapons: Bolt Pistol, Multi-melta
+Profiles:
+. Total Obliteration: Description:Each time a ranged attack made by a model in this unit targets a Monster or Vehicle model, you can re-roll the Hit roll, you can re-roll the Wound roll and you can re-roll the Damage roll.|
+. Close Combat Weapon: Range:Melee|A:3|WS:3+|S:4|AP:0|D:1|Keywords:-|
+. Bolt Pistol: Range:12"|A:1|BS:3+|S:4|AP:0|D:1|Keywords:Pistol|
+. Melta Rifle: Range:18"|A:1|BS:3+|S:9|AP:-4|D:D6|Keywords:Heavy, Melta 2|
+. Multi-melta: Range:18"|A:2|BS:4+|S:9|AP:-4|D:D6|Keywords:Heavy, Melta 2|
+. Eradicator Squad: M:5"|T:6|SV:3+|W:3|LD:6+|OC:1|
+
+Inceptor Squad [110pts]: Plasma Exterminators
+. Categories: Infantry, Fly, Jump Pack, Imperium, Gravis, Faction: Adeptus Astartes, Inceptor Squad
+. Rules: Assault, Deep Strike, Hazardous, Oath of Moment, Pistol, Twin-linked
+. Abilities: Meteoric Descent, Ranged Weapons: ➤ Plasma Exterminators - Standard, ➤ Plasma Exterminators - Supercharge, Unit: Inceptor Squad
+. 2x Inceptor: 2x Close Combat Weapon
+. . Melee Weapons: Close Combat Weapon
+. Inceptor Sergeant: Close Combat Weapon
+. . Melee Weapons: Close Combat Weapon
+Profiles:
+. Meteoric Descent: Description:When this unit is set up on the battlefield using the Deep Strike ability, it can perform a meteoric descent. If it does, this unit can be set up anywhere on the battlefield that is more than 3" horizontally away from all enemy units, but until the end of the turn, it is not eligible to declare a charge.|
+. Close Combat Weapon: Range:Melee|A:3|WS:3+|S:4|AP:0|D:1|Keywords:-|
+. ➤ Plasma Exterminators - Standard: Range:18"|A:2|BS:3+|S:7|AP:-2|D:2|Keywords:Assault, Pistol, Twin-linked|
+. ➤ Plasma Exterminators - Supercharge: Range:18"|A:2|BS:3+|S:8|AP:-3|D:3|Keywords:Assault, Pistol, Hazardous, Twin-linked|
+. Inceptor Squad: M:10"|T:6|SV:3+|W:3|LD:6+|OC:1|
+
+Infiltrator Squad [100pts]: Helix Gauntlet
+. Categories: Infantry, Grenades, Imperium, Smoke, Phobos, Faction: Adeptus Astartes, Infiltrator Squad
+. Rules: Feel No Pain, Infiltrators, Oath of Moment
+. Abilities: Helix Gauntlet, Omni-scramblers, Unit: Infiltrator Squad
+. Infiltrator Sergeant: Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+. . Rules: Pistol
+. . Melee Weapons: Close Combat Weapon, Ranged Weapons: Bolt Pistol, Marksman Bolt Carbine
+. 4x Infiltrators: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+. . Rules: Pistol
+. . Melee Weapons: Close Combat Weapon, Ranged Weapons: Bolt Pistol, Marksman Bolt Carbine
+Profiles:
+. Helix Gauntlet: Description:Models in the bearer’s unit have the Feel No Pain 6+ ability.|
+. Omni-scramblers: Description:Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12" of this unit.|
+. Close Combat Weapon: Range:Melee|A:3|WS:3+|S:4|AP:0|D:1|Keywords:-|
+. Bolt Pistol: Range:12"|A:1|BS:3+|S:4|AP:0|D:1|Keywords:Pistol|
+. Marksman Bolt Carbine: Range:24"|A:2|BS:3+|S:4|AP:0|D:1|Keywords:Heavy|
+. Infiltrator Squad: M:6"|T:4|SV:3+|W:2|LD:6+|OC:1|
+
++ Vehicle [555pts] +
+
+Death Company Dreadnought [165pts]: Heavy Flamer, Magna-grapple, Meltagun, Twin Furioso Fists
+. Categories: Vehicle, Walker, Imperium, Death Company Dreadnought, Faction: Adeptus Astartes, Faction: Blood Angels, Dreadnought
+. Rules: Deadly Demise 1, Feel No Pain 6+, Ignores Cover, Melta, Oath of Moment, Torrent, Twin-linked
+. Abilities: Black Rage, Frenzied Reprisal, Magna-grapple, Melee Weapons: Twin Furioso Fists, Ranged Weapons: Heavy Flamer, Meltagun, Unit: Death Company Dreadnought
+Profiles:
+. Black Rage: Description:Each time this model makes an attack, you can re-roll the Hit roll. While this model is not within 12" of one or more friendly Chaplain models, it cannot be selected to Fall Back and its Objective Control characteristic is 0.|
+. Frenzied Reprisal: Description:Each time an enemy unit targets this model, after that unit has finished making its attacks, this model can either shoot as if it were your Shooting phase or fight as if it were the Fight phase.|
+. Magna-grapple: Description:The bearer loses the Smoke keyword, but  add 2 to Charge rolls made for the bearer if one or more of the targets of that charge is a Monster or Vehicle unit|
+. Twin Furioso Fists: Range:Melee|A:5|WS:3+|S:12|AP:-3|D:3|Keywords:Twin-linked|
+. Heavy Flamer: Range:12"|A:D6|BS:N/A|S:5|AP:-1|D:1|Keywords:Ignores Cover, Torrent|
+. Meltagun: Range:12"|A:1|BS:3+|S:9|AP:-4|D:D6|Keywords:Melta 2|
+. Death Company Dreadnought: M:8"|T:9|SV:2+|W:8|LD:6+|OC:3|
+
+Firestrike Servo-Turrets [75pts]
+. Categories: Artillery, Vehicle, Imperium, Faction: Adeptus Astartes, Firestrike Servo-turrets
+. Rules: Oath of Moment
+. Abilities: Sentinel Protocals, Unit: Firestrike Servo-Turrets
+. Firestrike Servo-Turret [75pts]: Close Combat Weapon, Twin Firestrike Las-talon
+. . Rules: Twin-linked
+. . Melee Weapons: Close Combat Weapon, Ranged Weapons: Twin Firestrike Las-talon
+Profiles:
+. Sentinel Protocals: Description:Each time you select this unit for the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 4+ when resolving that Stratagem.|
+. Close Combat Weapon: Range:Melee|A:3|WS:3+|S:4|AP:0|D:1|Keywords:-|
+. Twin Firestrike Las-talon: Range:36"|A:2|BS:2+|S:10|AP:-3|D:D6+1|Keywords:Twin-linked|
+. Firestrike Servo-Turrets: M:3"|T:6|SV:2+|W:6|LD:6+|OC:2|
+
+Librarian Dreadnought [170pts]: Blood Lance, Furioso Fist, Furioso Force Halberd, Meltagun
+. Categories: Vehicle, Walker, Psyker, Imperium, Librarian Dreadnought, Faction: Adeptus Astartes, Faction: Blood Angels, Smoke, Dreadnought
+. Rules: Deadly Demise 1, Extra Attacks, Hazardous, Melta, Oath of Moment, Psychic, Sustained Hits
+. Abilities: Shield of Sanguinius (Aura, Psychic), Wings of Sanguinius (Psychic), Melee Weapons: Furioso Fist, Furioso Force Halberd, Ranged Weapons: Meltagun, ➤ Blood Lance - Focused Witchfire, ➤ Blood Lance - Witchfire, Unit: Librarian Dreadnought
+Profiles:
+. Shield of Sanguinius (Aura, Psychic): Description:While a friendly Adeptus Astartes unit is within 6" of this model, models in that unit have the Feel No Pain 5+ ability against mortal wounds and Psychic Attacks.|
+. Wings of Sanguinius (Psychic): Description:Once per turn, at the end of your Movement phase, one Psyker from your army with this ability can use it. If it does, roll one D6: on a 1, that Psyker suffers D3 mortal wounds; on a 2+, select one friendly Adeptus Astartes Infantry unit within 12" of that Psyker and remove the selected unit from the battlefield, then set it up again anywhere on the battlefield that is more than 9"
+horizontally away from all enemy models.|
+. Furioso Fist: Range:Melee|A:5|WS:3+|S:12|AP:-3|D:3|Keywords:|
+. Furioso Force Halberd: Range:Melee|A:1|WS:2+|S:9|AP:-3|D:D6+3|Keywords:Extra Attacks, Psychic|
+. Meltagun: Range:12"|A:1|BS:3+|S:9|AP:-4|D:D6|Keywords:Melta 2|
+. ➤ Blood Lance - Focused Witchfire: Range:18"|A:1|BS:3+|S:12|AP:-3|D:D6+3|Keywords:Hazardous, Psychic, Sustained Hits D3|
+. ➤ Blood Lance - Witchfire: Range:18"|A:1|BS:3+|S:10|AP:-3|D:D6|Keywords:Psychic, Sustained Hits D3|
+. Librarian Dreadnought: M:6"|T:9|SV:2+|W:8|LD:6+|OC:3|
+
+Whirlwind [145pts]: Armoured Tracks, Hunter Killer Missile, Storm Bolter, Whirlwind Vengeance Launcher
+. Categories: Imperium, Vehicle, Smoke, Faction: Adeptus Astartes, Whirlwind
+. Rules: Blast, Deadly Demise D3, Indirect Fire, Oath of Moment, One Shot, Rapid Fire
+. Abilities: Damaged: 1-4 Wounds Remaining, Pinning Bombardment, Melee Weapons: Armoured Tracks, Ranged Weapons: Hunter Killer Missile, Storm Bolter, Whirlwind Vengeance Launcher, Unit: Whirlwind
+Profiles:
+. Damaged: 1-4 Wounds Remaining: Description:While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.|
+. Pinning Bombardment: Description:In your Shooting phase, after this model has shot, if one or more of those attacks made with its Whirlwind vengeance launcher scored a hit against an enemy Infantry unit, that unit must take a Battle-shock test.|
+. Armoured Tracks: Range:Melee|A:3|WS:4+|S:6|AP:0|D:1|Keywords:|
+. Hunter Killer Missile: Range:48"|A:1|BS:2+|S:14|AP:-3|D:D6|Keywords:One Shot|
+. Storm Bolter: Range:24"|A:2|BS:3+|S:4|AP:0|D:1|Keywords:Rapid Fire 2|
+. Whirlwind Vengeance Launcher: Range:72"|A:D6+3|BS:3+|S:8|AP:-2|D:2|Keywords:Blast, Indirect Fire|
+. Whirlwind: M:10"|T:10|SV:3+|W:11|LD:6+|OC:3|
+
+++ Roster Rules ++
+
+. Oath of Moment: If your Army Faction is Adeptus Astartes, at the start of your Command phase, select one unit from your opponent’s army. Until the start of your next Command phase, each time a model from your army with this ability makes an attack that targets that enemy unit, you can re-roll the Hit roll. ()
+
+++ Selection Rules ++
+
+. Assault: Weapons with [ASSAULT] in their profile are known as Assault weapons. If a unit that Advanced this turn contains any models equipped with Assault weapons, it is still eligible to shoot in this turn’s Shooting phase. When such a unit is selected to shoot, you can only resolve attacks using Assault weapons its models are equipped with. (10th Edition Core Rules p25)
+
+. Blast: Weapons with [BLAST] in their profile are known as Blast weapons, and they make a random number of attacks. Each time you determine how many attacks are made with a Blast weapon, add 1 to the result for every five models that were in the target unit when you selected it as the target (rounding down). Blast weapons can never be used to make attacks against a unit that is within Engagement Range of one or more units from the attacking model’s army (including its own unit). (10th Edition Core Rules p26)
+
+. Deadly Demise 1: Some models have 'Deadly Demise x' listed in their abilities. When such a model is destroyed, roll one D6 before removing it from play (if such a model is a TRANSPORT, roll before any embarked models disembark). On a 6, each unit within 6" of that model suffers a number of mortal wounds denoted by 'x' (if this is a random number, roll separately for each unit within 6"). (10th Edition Core Rules p23)
+
+. Deadly Demise D3: Some models have 'Deadly Demise x' listed in their abilities. When such a model is destroyed, roll one D6 before removing it from play (if such a model is a TRANSPORT, roll before any embarked models disembark). On a 6, each unit within 6" of that model suffers a number of mortal wounds denoted by 'x' (if this is a random number, roll separately for each unit within 6"). (10th Edition Core Rules p23)
+
+. Deep Strike: During the Declare Battle Formations step, if every model in a unit has this ability, you can set it up in Reserves instead of setting it up on the battlefield. If you do, in the Reinforcements step of one of your Movement phases you can set up this unit anywhere on the battlefield that is more than 9" horizontally away from all enemy models. (10th Edition Core Rules p39)
+
+. Devastating Wounds: Weapons with [DEVASTATING WOUNDS] in their profile are known as Devastating Wounds weapons. Each time an attack is made with such a weapon, if that attack scores a Critical Wound, no saving throw of any kind can be made against that attack (including invulnerable saving throws). Such attacks are only allocated to models after all other attacks made by the attacking unit have been allocated and resolved (10th Edition Core Rules p28)
+
+. Extra Attacks: Weapons with [EXTRA ATTACKS] in their profile are known as Extra Attacks weapons. Each time the bearer of such a weapon fights, it can make attacks with that weapon in addition to the one it chooses to fight with. The number of attacks made with an Extra Attacks weapon cannot be modified by other rules. (10th Edition Core Rules p28)
+
+. Feel No Pain: Some models have 'Feel No Pain x+' listed in their abilities. Each time a model with this ability suffers damage and so would lose a wound (including wounds lost due to mortal wounds), roll one D6: if the result is greater than or equal to the number denoted by 'x: that wound is ignored and is not lost. If a model has more than one Feel No Pain ability, you can only use one of those abilities each time that model
+suffers damage and so would lose a wound. (10th Edition Core Rules p23)
+
+. Feel No Pain 6+: Some models have 'Feel No Pain x+' listed in their abilities. Each time a model with this ability suffers damage and so would lose a wound (including wounds lost due to mortal wounds), roll one D6: if the result is greater than or equal to the number denoted by 'x: that wound is ignored and is not lost. If a model has more than one Feel No Pain ability, you can only use one of those abilities each time that model
+suffers damage and so would lose a wound. (10th Edition Core Rules p23)
+
+. Hazardous: Weapons with [HAZARDOUS] in their profile are known as Hazardous weapons. Each time a unit is selected to shoot or fight, if one or more models attack with Hazardous weapons, then after that unit has resolved all of its attacks, you must take one Hazardous test for each Hazardous weapon that was just used by rolling one D6. For each roll of 1, that test is failed and one model in that unit equipped with a Hazardous weapon is destroyed (selected by the controlling player), unless that model is a Character, Monster or Vehicle, in which case it suffers 3 mortal wounds instead. Note that if you selected a Character model in an Attached unit, the mortal wounds suffered must be allocated to that model first, even if there is another model in that unit that has lost one or more wounds or has had attacks allocated to it this phase. (10th Edition Core Rules p28)
+
+. Heavy: Weapons with [HEAVY] in their profile are known as Heavy weapons. Each time an attack is made with such a weapon, if the attacking model’s unit Remained Stationary this turn, add 1 to that attack’s Hit roll. (10th Edition Core Rules p26)
+
+. Ignores Cover: Weapons with [IGNORES COVER] in their profile are known as Ignores Cover weapons. Each time an attack is made with such a weapon, the target cannot have the Benefit of Cover against that attack. (10th Edition Core Rules p25)
+
+. Indirect Fire: Weapons with [INDIRECT FIRE] in their profile are known as Indirect Fire weapons, and attacks can be made with them even if the target is not visible to the attacking model. These attacks can destroy enemy models in a target unit even though none may have been visible to the attacking unit when you selected that target.
+
+If no models in a target unit are visible to the attacking unit when you select that target, then each time a model in the attacking unit makes an attack against that target using an Indirect Fire weapon, subtract 1 from that attack’s Hit roll and the target has the Benefit of Cover against that attack. (10th Edition Core Rules p26)
+
+. Infiltrators: During deployment, if every model in a unit has this ability, then when you set it up, it can be set up anywhere on the battlefield that is more than 9" horizontally away from the enemy deployment zone and all enemy models. (10th Edition Core Rules p39)
+
+. Leader: While a Bodyguard unit contains a Leader, it is known as an Attached unit and, with the exception of rules that are triggered when units are destroyed (pg 12), it is treated as a single unit for all rules purposes. Each time an attack targets an Attached unit, until the attacking unit has resolved all of its attacks, you must use the Toughness characteristic of the Bodyguard models in that unit, even if a Leader in that unit has a different Toughness characteristic. Each time an attack sucessfully wounds an Attached unit, that attack cannot be allocated to a Character model in that unit, even if that Character model has lost one or more wounds or has already had attacks allocated to it this phase. As soon as the last Bodyguard model in an Attached unit has been destroyed, any attacks made against that unit that have yet to be allocated can then be allocated to Character models in that unit. (10th Edition Core Rules p39)
+
+. Lethal Hits: Weapons with [LETHAL HITS] in their profile are known as Lethal Hits weapons. Each time an attack is made with such a weapon, a Critical Hit automatically wounds the target. (10th Edition Core Rules p25)
+
+. Melta: Weapons with [MELTA X] in their profile are known as Melta weapons. Each time an attack made with such a weapon targets a unit within half that weapon’s range, that attack’s Damage characteristic is increased by the amount denoted by ‘x’. (10th Edition Core Rules p26)
+
+. Oath of Moment: If your Army Faction is Adeptus Astartes, at the start of your Command phase, select one unit from your opponent’s army. Until the start of your next Command phase, each time a model from your army with this ability makes an attack that targets that enemy unit, you can re-roll the Hit roll. ()
+
+. One Shot: The bearer can only shoot with this weapon once per battle. ()
+
+. Pistol: Weapons with [PISTOL] in their profile are known as Pistols. If a unit contains any models equipped with Pistols, that unit is eligible to shoot in its controlling player’s Shooting phase even while it is within Engagement Range of one or more enemy units. When such a unit is selected to shoot, it can only resolve attacks using its Pistols and can only target one of the enemy units it is within Engagement Range of. In such circumstances, a Pistol can target an enemy unit even if other friendly units are within Engagement Range of the same enemy unit. 
+
+If a model is equipped with one or more Pistols, unless it is a MONSTER or VEHICLE model, it can either shoot with its Pistols or with all of its other ranged weapons. Declare whether such a model will shoot with its Pistols or its other ranged weapons before selecting targets. (10th Edition Core Rules p25)
+
+. Precision: Weapons with [PRECISION] in their profile are known as Precision weapons. Each time an attack made with such a weapon successfully wounds an Attached unit, if a Character model in that unit is visible to the attacking model, the attacking model’s player can choose to have that attack allocated to that Character model instead of following the normal attack sequence. (10th Edition Core Rules p26)
+
+. Psychic: Some weapons and abilities can only be used by PSYKERS. Such weapons and abilities are tagged with the word 'Psychic'. If a Psychic weapon or ability causes any unit to suffer one or more wounds, each of those wounds is considered to have been inflicted by a Psychic Attack. (10th Edition Core Rules p38)
+
+. Rapid Fire: Weapons with [RAPID FIRE X] in their profile are known as Rapid Fire weapons. Each time such a weapon targets a unit within half that weapon’s range, the Attacks characteristic of that weapon is increased by the amount denoted by ‘x’. (10th Edition Core Rules p25)
+
+. Sustained Hits: Weapons with [SUSTAINED HITS X] in their profile are known as Sustained Hits weapons. Each time an attack is made with such a weapon, if a Critical Hit is rolled, that attack scores a number of additional hits on the target as denoted by ‘x’ (10th Edition Core Rules p28)
+
+. Torrent: Weapons with [TORRENT] in their profile are known as Torrent weapons. Each time an attack is made with such a weapon, that attack automatically hits the target. (10th Edition Core Rules p25)
+
+. Twin-linked: Weapons with [TWIN-LINKED] in their profile are known as Twin-linked weapons. Each time an attack is made with such a weapon, you can re-roll that attack’s Wound roll. (10th Edition Core Rules p25)
+
+Created with BattleScribe (https://battlescribe.net)
