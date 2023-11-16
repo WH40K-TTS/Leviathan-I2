@@ -1,28 +1,131 @@
-#### **Perros** (*Army* for Warhammer 40k)  
-└ **War Dog Stalker** [*Points*: **135**, *Warlord*: **✓**, *Melee Weapon*: **Reaper chaintalon**, *Ranged Weapon*: **Daemonbreath spear**, *Sponson Weapon*: **Havoc multi‑launcher**]   
-└ **War Dog Karnivore** [*Points*: **160**, *Sponson Weapon*: **Havoc multi‑launcher**]   
-└ **War Dog Karnivore** [*Points*: **160**, *Sponson Weapon*: **Havoc multi‑launcher**]   
-└ **War Dog Karnivore** [*Points*: **160**, *Sponson Weapon*: **Havoc multi‑launcher**]   
-└ **War Dog Karnivore** [*Points*: **160**, *Sponson Weapon*: **Havoc multi‑launcher**]   
-└ **War Dog Brigand** [*Points*: **150**, *Sponson Weapon*: **Havoc multi‑launcher**]   
-└ **War Dog Brigand** [*Points*: **150**, *Sponson Weapon*: **Havoc multi‑launcher**]   
-└ **War Dog Brigand** [*Points*: **150**, *Sponson Weapon*: **Havoc multi‑launcher**]   
-└ **War Dog Brigand** [*Points*: **150**, *Sponson Weapon*: **Havoc multi‑launcher**]   
-└ **War Dog Brigand** [*Points*: **150**, *Sponson Weapon*: **Havoc multi‑launcher**]   
-└ **War Dog Brigand** [*Points*: **150**, *Sponson Weapon*: **Havoc multi‑launcher**]   
-└ **Flamers** [*Points*: **65**]   
-   *Model*  
-  └ **Pyrocaster**  
-   *Model*  
-  └ 2x **Flamer**  
-└ **The Changeling** [*Points*: **75**]   
-└ **Pink Horrors** [*Points*: **140**]   
-   *Model*  
-  └ 10x **Pink Horror**  
-└ **Nurglings** [*Points*: **40**]   
-   *Model*  
-  └ 3x **Nurgling Swarm**
+New Roster (Warhammer 40,000 10th Edition) [1,990pts]
+Army Roster (Imperium - Adeptus Astartes - Black Templars) [1,990pts]
+Configuration
+Battle Size
+Selections: 2. Strike Force (2000 Point limit)
 
-#### [*Points*: **1995**, *Ally 1 Points*: **320**, *Faction*: **Chaos Knights**, *Allied faction 1*: **Legiones Daemonica**]
+Categories: Configuration
 
-Created with [Rosterizer](https://rosterizer.com)
+Detachment
+Selections: Ironstorm Spearhead
+
+Categories: Configuration
+
+Show/Hide Options
+Selections: Agents of the Imperium are visible
+
+Categories: Configuration
+
+Character [320pts]
+Lieutenant with Combi-weapon [70pts]
+Selections: Combi-weapon, Paired Combat Blades
+
+Categories: Character, Infantry, Grenades, Imperium, Smoke, Lieutenant with Combi-weapon, Faction: Adeptus Astartes, Phobos, Lieutenant
+
+Techmarine [80pts]
+Selections: Adept of the Omnissiah [25pts], Forge Bolter, Grav-pistol, Omnissian Power Axe, Servo-arm
+
+Categories: Character, Infantry, Grenades, Imperium, Tacticus, Faction: Adeptus Astartes, Techmarine
+
+Techmarine [75pts]
+Selections: Forge Bolter, Grav-pistol, Master of the Machine War [Aura] [20pts], Omnissian Power Axe, Servo-arm
+
+Categories: Character, Infantry, Grenades, Imperium, Tacticus, Faction: Adeptus Astartes, Techmarine
+
+Techmarine [95pts]
+Selections: Forge Bolter, Grav-pistol, Omnissian Power Axe, Servo-arm, Target Augury Web [Aura] [40pts], Warlord
+
+Categories: Character, Infantry, Grenades, Imperium, Tacticus, Faction: Adeptus Astartes, Techmarine, Warlord
+
+Infantry [210pts]
+Infiltrator Squad [100pts]
+Selections: Helix Gauntlet, Infiltrator Comms Array
+
+Categories: Infantry, Grenades, Imperium, Smoke, Phobos, Faction: Adeptus Astartes, Infiltrator Squad
+
+Infiltrator Sergeant
+Selections: Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+
+4x Infiltrators
+Selections: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+
+Scout Squad [55pts]
+Categories: Infantry, Grenades, Imperium, Smoke, Scout Squad, Faction: Adeptus Astartes
+
+Scout Sergeant
+Selections: Astartes Chainsword, Bolt Pistol, Close Combat Weapon
+
+Scout w/ Heavy Weapon
+Selections: Bolt Pistol, Close Combat Weapon, Heavy Bolter
+
+Scout w/ Scout Sniper Rifle
+Selections: Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+
+Scouts w/ Astartes Shotgun
+Selections: Astartes Shotgun, Bolt Pistol, Close Combat Weapon
+
+Scouts w/ Boltgun
+Selections: Bolt Pistol, Boltgun, Close Combat Weapon
+
+Scout Squad [55pts]
+Categories: Infantry, Grenades, Imperium, Smoke, Scout Squad, Faction: Adeptus Astartes
+
+Scout Sergeant
+Selections: Astartes Chainsword, Bolt Pistol, Close Combat Weapon
+
+Scout w/ Heavy Weapon
+Selections: Bolt Pistol, Close Combat Weapon, Heavy Bolter
+
+Scout w/ Scout Sniper Rifle
+Selections: Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+
+Scouts w/ Astartes Shotgun
+Selections: Astartes Shotgun, Bolt Pistol, Close Combat Weapon
+
+Scouts w/ Boltgun
+Selections: Bolt Pistol, Boltgun, Close Combat Weapon
+
+Vehicle [1,370pts]
+Black Templars Gladiator Lancer [165pts]
+Selections: 2 Storm Bolters, Armoured Hull, Icarus Rocket Pod, Lancer Laser Destroyer, Multi-melta
+
+Categories: Vehicle, Imperium, Smoke, Gladiator Lancer, Faction: Adeptus Astartes, Faction: Black Templars
+
+Black Templars Gladiator Lancer [165pts]
+Selections: 2 Storm Bolters, Armoured Hull, Icarus Rocket Pod, Lancer Laser Destroyer, Multi-melta
+
+Categories: Vehicle, Imperium, Smoke, Gladiator Lancer, Faction: Adeptus Astartes, Faction: Black Templars
+
+Redemptor Dreadnought [200pts]
+Selections: Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon, Redemptor Fist, Twin Storm Bolter
+
+Categories: Vehicle, Walker, Imperium, Redemptor Dreadnought, Faction: Adeptus Astartes
+
+Redemptor Dreadnought [200pts]
+Selections: Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon, Redemptor Fist, Twin Storm Bolter
+
+Categories: Vehicle, Walker, Imperium, Redemptor Dreadnought, Faction: Adeptus Astartes
+
+Redemptor Dreadnought [200pts]
+Selections: Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon, Redemptor Fist, Twin Storm Bolter
+
+Categories: Vehicle, Walker, Imperium, Redemptor Dreadnought, Faction: Adeptus Astartes
+
+Repulsor Executioner [220pts]
+Selections: Armoured Hull, Heavy Laser Destroyer, Heavy Onslaught Gatling Cannon, Icarus Rocket Pod, Ironhail Heavy Stubber, Repulsor Executioner Defensive Array, Twin Heavy Bolter, Twin Icarus Ironhail Heavy Stubber
+
+Categories: Vehicle, Smoke, Imperium, Transport, Repulsor Executioner, Faction: Adeptus Astartes
+
+Repulsor Executioner [220pts]
+Selections: Armoured Hull, Heavy Laser Destroyer, Heavy Onslaught Gatling Cannon, Icarus Rocket Pod, Ironhail Heavy Stubber, Repulsor Executioner Defensive Array, Twin Heavy Bolter, Twin Icarus Ironhail Heavy Stubber
+
+Categories: Vehicle, Smoke, Imperium, Transport, Repulsor Executioner, Faction: Adeptus Astartes
+
+Allied Units [90pts]
+Callidus Assassin [90pts]
+Selections: Neural shredder, Phase sword and poison blades
+
+Categories: Faction: Agents of the Imperium, Infantry, Character, Epic Hero, Imperium, Callidus Assassin, Allied Units, Assigned Agents - Character
+
+
+Created with BattleScribe
